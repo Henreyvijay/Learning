@@ -1,0 +1,125 @@
+{
+  "basics": {
+    "name": "R.S.HENREY BERNANDAZ",
+    "email": "henreyvijay13@gamil.com",
+    "phone": 8838794900,
+    "degree": "B.B.A",
+    "location": {
+      "address": "D-57-B, vivekanandar Salai,shasayee Nagar, K.K.Nagar",
+      "postalCode": 620021,
+      "city": "Trichy",
+      "state": "Tamilnadu",
+      "country": "India"
+    },
+    "profiles": [
+      {
+        "website": "www.linkedin.com/in/henrey-bernandaz-9877a7b8",
+        "github":"https://github.com/Henreyvijay"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Victory Blood Bank",
+      "position": "Office Admin Executive",
+      "startDate": "2012-08-01",
+      "endDate": "2013-05-31",
+      "summary": ["Office Account Maintenance",
+                  "Sales report preparation with payment collection",
+                  "Maintain and purchasing the required Equipments.",
+                  "Assign the monthly service for the Equipments.",
+                  "Monthly visit to the Hospitals and collecting the service feedback."]
+    },
+    {
+      "company": "AN M Muthu Agency",
+      "position": "Assistant Manager",
+      "startDate": "2013-06-03",
+      "endDate": "2017-12-29",
+      "summary": ["Maintaining the goods inventory In and Out",
+                  "Weekly visit to the Retail outlets and collecting the feedback.",
+                  "Supporting for the Sales promotion","Office Account Maintenance",
+                  "System Maintenance (Desktop Support Engineer)"]
+    },
+    {
+      "company": "AN M Pharmaceutical",
+      "position": "Managar",
+      "startDate": "2013-06-03",
+      "endDate": "2017-12-29",
+      "summary": ["Maintaining the goods inventory In and Out",
+                  "Invoice Preparation using SAP Billing system Trained by Nirlife Pharmaceuticals",
+                  "Supporting for the Sales promotion",
+                  "Office Account Maintenance",
+                  "System Maintenance (Desktop Support Engineer)"]
+    },
+    {
+      "company": "Snips Solution private limited(GUUD Pte Ltd, Singapore)",
+      "position": "Documentation Specialist",
+      "startDate": "2018-01-02",
+      "endDate": "2018-02-28",
+      "summary": ["Maintaining the goods inventory In and Out",
+                  "Settled any customer disputes in a professional and pleasant manner.",
+                  "Helped to increase customer return rates by always providing excellent customer service.",
+                  "System Maintenance (Desktop Support Engineer)"]
+    },
+    {
+      "company": "Snips Solution private limited(GUUD Pte Ltd, Singapore)",
+      "position": "In-Charge",
+      "startDate": "2018-03-01",
+      "endDate": "2018-02-28",
+      "summary": ["Allocated the jobs to the Team Members",
+                  "Explain the job details to the Team Members",
+                  "More focus on the sensitive Customer",
+                  "Helping for the Team performance and improvement with Quality Maintenance",
+                  "Giving the suggestions for the Web application development to IT Department",
+                  "System Maintenance (Desktop Support Engineer)"]
+    },
+    {
+      "company": "Snips Solution private limited(GUUD Pte Ltd, Singapore)",
+      "position": "Team Leader",
+      "startDate": "2018-11-01",
+      "endDate": "2021-01-31",
+      "summary": ["Provided the Training for the member’s improvement in different type of job scenario.",
+                  "Preparing the simplification methods to convert the PDF documents into Excel using Formulas.",
+                  "Monitoring every team person individual performance",
+                  "Giving the suggestions for the Web application development to IT Department",
+                  "System Maintenance (Desktop Support Engineer)"]
+    },
+    {
+      "company": "Snips Solution private limited(GUUD Pte Ltd, Singapore)",
+      "position": "Operation Manager",
+      "startDate": "2021-02-01",
+      "endDate": "Present",
+      "summary": ["Maintained up-to-date job knowledge and Teach to the Team persons.",
+                  "Follow-up the day workload and job separation process",
+                  "Will give the Weekend Training section and discuss with the team person about weekly performance and difficulties.",
+                  "Requesting to the IT department for the new concept in Web application to simplifying the work",
+                  "System Maintenance (Desktop Support Engineer)"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Jamal Mohamed College(Autonomous)",
+      "department": "Bachelor of Business Administration",
+      "studyType": "fulltime for First Two year, Final Year correspondent-bharathidasan university",
+      "batch start year": 2009,
+      "batch end year": 2012
+    }
+  ],
+  "skills": [
+    {
+      "name": "python,javascript",
+      "level": "beginer"
+
+    }
+  ],
+  "languages": [
+    {
+      "language": "Tamil,Enlish"
+    }
+  ],
+  "interests": [
+    {
+      "name": "hockey"
+    }
+  ]
+}
